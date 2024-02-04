@@ -2,7 +2,8 @@ package main
 
 import (
 	"net/http"
-	"Tsis01/pkg"
+
+	"github.com/erapredator/Golang/pkg"
 	"github.com/gorilla/mux"
 )
 
